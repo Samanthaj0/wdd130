@@ -173,7 +173,7 @@ nav {
     }
     .home-title {
         font-size: 25px;
-        color: #000000;
+        color: #d6b6b6;
     }
     #background {
         display: none;
@@ -181,5 +181,10 @@ nav {
     }
     footer {
         margin-top: 25px;
+        background-color: aqua;
+    }
+    .ntk-title {
+        text-shadow: 10px;
+        color: aliceblue;
     }
 }
